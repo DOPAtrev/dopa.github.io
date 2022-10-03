@@ -1,4 +1,4 @@
-<template>
+<template onselectstart="return false">
 <div class="background">
 
   <div class="navbar max">
@@ -17,5 +17,5 @@
 </template>
 
 <script>
-
+document.oncontextmenu =new Function("return false;")
 </script>
