@@ -8,7 +8,7 @@
   <div class="home">
     <div class="home-content max">
       <!-- <h1>it's classified.</h1> -->
-      <i class="fa-solid fa-lock icon"></i>
+      <i class="fa-sharp fa-solid fa-lock icon"></i>
       <p>ACCESS TO THIS PAGE IS RESTRICTED</p>
     </div>
   </div>
