@@ -9,7 +9,7 @@
     <div class="home-content max">
       <!-- <h1>it's classified.</h1> -->
       <i class="fa-solid fa-lock icon"></i>
-      <p>Access to this page is restricted...</p>
+      <p>ACCESS TO THIS PAGE IS RESTRICTED</p>
     </div>
   </div>
 
