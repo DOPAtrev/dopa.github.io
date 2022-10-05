@@ -67,11 +67,6 @@ p {
     max-width: 1200px;
   }
   
-  .topline {
-    background: #537DFE;
-    padding: 5px;
-  }
-  
   .navbar {
     margin: 0 auto;
     display: block;
@@ -95,9 +90,12 @@ p {
     }
   }
 
+  img {
+    width: 100%;
+  }
+
   .logo {
-    width: 300px;
-    color: #ffffff;
+    width: 215px;
     padding-top: 30px;
   }
   
@@ -146,6 +144,7 @@ p {
   }
 
   .logo {
+    width: 150px;
     padding-top: 10px;
   }
 

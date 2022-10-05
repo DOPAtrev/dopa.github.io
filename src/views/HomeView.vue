@@ -2,7 +2,7 @@
 <div class="background">
 
   <div class="navbar max">
-      <img alt="Dopa logo" class="logo" src="../assets/horizontal-logo-white.svg">
+      <img alt="Dopa logo" class="logo" src="../assets/round-logo-web.svg">
   </div>
 
   <div class="home">
